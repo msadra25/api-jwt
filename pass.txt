@@ -1,0 +1,4 @@
+RS87   abc1def2
+ali.ahd5  123456@
+mskh    a123b456#
+M.A15    ABC0@#$
