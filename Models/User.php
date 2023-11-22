@@ -25,7 +25,7 @@ class User{
     }
 
 
-
+    //testModel
     public function getFirstName(){
         return $this->firstName;
     }
