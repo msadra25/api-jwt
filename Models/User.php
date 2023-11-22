@@ -24,7 +24,7 @@ class User{
         $this->password = $password;
     }
 
-
+    //testMOdel2
     //testModel
     public function getFirstName(){
         return $this->firstName;
